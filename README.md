@@ -8,7 +8,7 @@
 
 I ofter notices after 3D prints finish, thin plastic threads (stringing) often appear between gaps or travel paths. This ruins surface quality and usually requires manual post-processing. So I plan to build a system to auto smooth the printing, by automatically blows  **precisely controlled hot air**  at specific positions, we can do this thing to get smooth print.
 
-Check out the Printer's Journey [Here](https://infill.hackclub.com/printers/candy_v1/)
+Check out the Printer's Journey [Here]([https://infill.hackclub.com/printers/candy_v1/](https://infill.hackclub.com/printers/muonforge/))
 
 ### Bom
 [Here](https://docs.google.com/spreadsheets/d/14x0yJbEj5C0rEIQlVVuA8SjHctHjPKWwfSs_GVw-i9w/edit?gid=1260412662#gid=1260412662) is the BOM for this printer
